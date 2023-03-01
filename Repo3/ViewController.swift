@@ -22,7 +22,8 @@ class ViewController: UIViewController {
             }
             return summ
         }
-       let x = caclulateAllDigitsSum(1234)
+       let x = caclulateAllDigitsSum(165165)
+        print(x)
     }
 
     
